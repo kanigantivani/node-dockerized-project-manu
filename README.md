@@ -89,17 +89,19 @@ we have sucseessfully configured the pipeline go to video integrated with over g
 
 
 
-To create ec2 instance take ubuntu os ,t2micro
+1. To create ec2 instance take ubuntu os ,t2micro
 ![1234](https://github.com/user-attachments/assets/5ea4d12f-7c28-4131-8620-a896ac578884)
-Install nodejs and npm  
+2. Install nodejs and npm  
  ![2 install nodejs](https://github.com/user-attachments/assets/984bc085-07ee-4abd-86d2-ac0b88a1b192) 
- create directory and enter into the directory
+3.  create directory and enter into the directory
  ![3rd create directory and enter into the directory and inialized npm](https://github.com/user-attachments/assets/670f2c15-bb5d-4130-9e30-dc595e620ef7)
- helloworld file write in index.js
+4. helloworld file write in index.js
  ![4th helloworld file write in index js](https://github.com/user-attachments/assets/95688a1f-1e2b-47f6-bb56-9b8db7891f8b)
- run over server index.js
+ 5. run over server index.js
  ![5th run over index json](https://github.com/user-attachments/assets/3359a3c4-6f14-4742-9ede-f3e49d6d72ee)
- install mocha
+6. we will get Helloworld so over node application  running successfully.
+ ![we eill get helloworld](https://github.com/user-attachments/assets/dca77d58-2038-466b-8b82-886981838f21)
+ 7. install mocha
  ![7th install mocha](https://github.com/user-attachments/assets/018c5b4b-5b80-4bc6-be6f-35df137b90fb)
  
 
