@@ -91,6 +91,11 @@ we have sucseessfully configured the pipeline go to video integrated with over g
 
 To create ec2 instance take ubuntu os ,t2micro
 ![1234](https://github.com/user-attachments/assets/5ea4d12f-7c28-4131-8620-a896ac578884)
+Install nodejs and npm  
+ ![2 install nodejs](https://github.com/user-attachments/assets/984bc085-07ee-4abd-86d2-ac0b88a1b192)
+
+
+
 
 
 
