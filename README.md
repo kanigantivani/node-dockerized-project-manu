@@ -89,6 +89,7 @@ we have sucseessfully configured the pipeline go to video integrated with over g
 
 
 
+To create ec2 instance take ubuntu os ,t2micro
 
 
 
