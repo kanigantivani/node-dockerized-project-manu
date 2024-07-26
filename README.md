@@ -103,6 +103,10 @@ we have sucseessfully configured the pipeline go to video integrated with over g
  ![we eill get helloworld](https://github.com/user-attachments/assets/dca77d58-2038-466b-8b82-886981838f21)
  7. install mocha
  ![7th install mocha](https://github.com/user-attachments/assets/018c5b4b-5b80-4bc6-be6f-35df137b90fb)
+8. lets verify the run cmd and running successfully build
+   ![8th lets verify the run cmd and running succesfully build script](https://github.com/user-attachments/assets/8e300cc3-7b10-4c59-839f-c82c9597a5bc)
+
+
  
 
 
