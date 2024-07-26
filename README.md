@@ -119,6 +119,12 @@ we have sucseessfully configured the pipeline go to video integrated with over g
 ![15 create a job configuration also done](https://github.com/user-attachments/assets/e4af5c65-bd1a-44e7-a5c0-a9cf04ec7349)
 16 create a jenkins file in github
  ![16th create jenkins file on github](https://github.com/user-attachments/assets/eca4dff1-2329-45a0-9e8c-8b83d0412644)
+17. successfully build in jenkinsfile in jenkins server
+    ![16th create jenkins file on github](https://github.com/user-attachments/assets/eca4dff1-2329-45a0-9e8c-8b83d0412644)
+
+    
+    
+    
 
  
 
