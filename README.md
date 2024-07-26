@@ -95,6 +95,10 @@ Install nodejs and npm
  ![2 install nodejs](https://github.com/user-attachments/assets/984bc085-07ee-4abd-86d2-ac0b88a1b192) 
  create directory and enter into the directory
  ![3rd create directory and enter into the directory and inialized npm](https://github.com/user-attachments/assets/670f2c15-bb5d-4130-9e30-dc595e620ef7)
+ helloworld file write in index.js
+ ![4th helloworld file write in index js](https://github.com/user-attachments/assets/95688a1f-1e2b-47f6-bb56-9b8db7891f8b)
+
+
 
 
 
