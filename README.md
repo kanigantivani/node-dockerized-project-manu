@@ -111,6 +111,11 @@ we have sucseessfully configured the pipeline go to video integrated with over g
     ![10th everything push into the github](https://github.com/user-attachments/assets/17bfe045-4416-46ed-a7ae-5364cc93c001)
 11. pushing into the github
     ![11th push into the git hub repository](https://github.com/user-attachments/assets/cadcd302-4c4a-4c41-a517-64a589b43da5)
+12. install jenkins on jenkins server
+   ![12 install jenkins on jenkins server](https://github.com/user-attachments/assets/bb86fe74-d1f1-41bc-961c-b0699d10dc3d)
+
+
+      
 
 
     
