@@ -107,6 +107,11 @@ we have sucseessfully configured the pipeline go to video integrated with over g
    ![8th lets verify the run cmd and running succesfully build script](https://github.com/user-attachments/assets/8e300cc3-7b10-4c59-839f-c82c9597a5bc)
 9. create repo on github
     ![9th create repo in github](https://github.com/user-attachments/assets/d5a3fb76-10a2-4fde-9995-501b3f216d83)
+10. everything push into the github
+    ![10th everything push into the github](https://github.com/user-attachments/assets/17bfe045-4416-46ed-a7ae-5364cc93c001)
+
+    
+      
 
       
 
