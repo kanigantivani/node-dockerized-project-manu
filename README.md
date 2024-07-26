@@ -115,6 +115,10 @@ we have sucseessfully configured the pipeline go to video integrated with over g
    ![12 install jenkins on jenkins server](https://github.com/user-attachments/assets/bb86fe74-d1f1-41bc-961c-b0699d10dc3d)
 13. jenkins administration
     ![13 jenkins administration](https://github.com/user-attachments/assets/0dcf4647-7f38-4c4a-9bb9-150f738fee3a)
+15 create a job on jenkins server
+![15 create a job configuration also done](https://github.com/user-attachments/assets/e4af5c65-bd1a-44e7-a5c0-a9cf04ec7349)
+
+
 
 
     
