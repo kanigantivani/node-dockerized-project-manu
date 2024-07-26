@@ -99,6 +99,9 @@ Install nodejs and npm
  ![4th helloworld file write in index js](https://github.com/user-attachments/assets/95688a1f-1e2b-47f6-bb56-9b8db7891f8b)
  run over server index.js
  ![5th run over index json](https://github.com/user-attachments/assets/3359a3c4-6f14-4742-9ede-f3e49d6d72ee)
+ install mocha
+ ![7th install mocha](https://github.com/user-attachments/assets/018c5b4b-5b80-4bc6-be6f-35df137b90fb)
+ 
 
 
 
