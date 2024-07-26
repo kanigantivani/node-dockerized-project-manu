@@ -123,6 +123,9 @@ we have sucseessfully configured the pipeline go to video integrated with over g
  ![17th successfull build jenkins file ](https://github.com/user-attachments/assets/85d62417-5692-4db5-924d-c7360281a7ed)
 18. create docker file in github
     ![18th created Docker file in github](https://github.com/user-attachments/assets/c41f2111-ead8-46de-b510-81cae513257d)
+19. successfully build docker image in jenkins pipeline
+   ![19th successfully build docker image in jenkins pipeline](https://github.com/user-attachments/assets/978e515f-f1ae-4d5a-a595-f59845635442) 
+        
 
 
 
