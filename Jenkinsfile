@@ -1,4 +1,4 @@
-pipeline {
+ pipeline {
     agent any
     stages{
         stage("checkout"){
@@ -25,6 +25,18 @@ pipeline {
             steps{
                 sh 'docker build -t my-node-app:1.0 .'
             }
+        }      
+        stage('Docker Push') {
+            steps {
+                withDockerRegistry(credentialsId: 'vaniuser-docker', url: 'vaniuser') {
+                    sh 'docker login -u $vaniuser -p $VaniManu@96'
+                    sh 'docker tag my-node-app:1.0 vaniuser/my-node-app:1.0:latest '
+                    sh 'docker push vaniuser/my-node-app:1.0:latest'
+                    sh 'docker logout'
+                }
+            }
         }
     }
-}               
+}
+
+              
