@@ -87,7 +87,7 @@ we have sucseessfully configured the pipeline go to video integrated with over g
 20 .now jenkins will expect a file in over git hub repository
 21. we want creat a Docker file for over node application
 
-![3rd create directory and enter into the directory and inialized npm](https://github.com/user-attachments/assets/efdbff93-bfc1-412f-9ed1-e93768316e15)
+
 
 
 
